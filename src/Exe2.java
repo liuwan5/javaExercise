@@ -6,7 +6,7 @@ class Num{
 }
 public class Exe2 {
     public static void main(String[] args) {
-        Num m=new Num(2.1f);
+        Num m=new Num(2.3f);
         f(m);
         System.out.println(m.n);
     }
