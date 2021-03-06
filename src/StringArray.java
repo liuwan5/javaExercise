@@ -9,7 +9,7 @@ public class StringArray {
         for(String str:strs){
             System.out.print(str+" ");
         }
-        System.out.println();
+        System.out.print('\n');
         System.out.println(Arrays.toString(strs));
     }
 }
